@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.2)
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.5.5)
+    twilio (3.1.1)
+      builder (>= 2.1.2)
+      httparty (>= 0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httparty
+  twilio
+
+BUNDLED WITH
+   1.12.5
